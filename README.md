@@ -1,316 +1,156 @@
-# Orion Effects Design and Marketing Private Limited
+# Orion Effects
 
+### Performance Marketing • Meta Ads • AI Systems • Marketing Automation
 
-### Performance Marketing | Meta Ads | AI Systems | Marketing Automation
+**Orion Effects** is a digital marketing company focused on practical growth systems for startups and SMEs.
 
-We help businesses turn marketing activity into measurable growth.
+We combine **performance marketing, creative strategy, data, AI and automation** to make marketing more measurable and more efficient.
 
-Orion Effects combines performance marketing, creative strategy, artificial intelligence and automation to build smarter systems for lead generation, customer acquisition and business growth.
-
-Our approach is simple:
-
-**Strategy + Creativity + Data + AI + Automation = Smarter Growth**
+> **Human strategy. AI assistance. Automated execution. Measurable growth.**
 
 ---
 
-## 🌐 About Orion Effects
+## What Orion Effects works on
 
-Orion Effects is a performance focused digital marketing company building practical marketing strategies, advertising systems, automation workflows and AI powered solutions.
+### 📈 Performance Marketing
 
-We believe marketing should not rely purely on guesswork.
+Practical systems around paid acquisition and lead generation, with a strong focus on Meta Ads.
 
-Every campaign should have:
+• Meta Ads strategy and campaign structure
+• Lead generation
+• Audience and offer research
+• Creative testing
+• Retargeting
+• Campaign analysis and optimisation
 
-🎯 A clear business objective
-📊 A measurable strategy
-🧠 A strong understanding of the audience
-🎨 Creative built to capture attention
-⚙️ Systems that reduce repetitive work
-📈 Continuous testing and optimization
+### 🤖 AI for Marketing
 
-Our goal is to help businesses build sustainable and measurable growth systems.
+We explore practical uses of AI where it can improve research, content workflows, analysis and operational efficiency.
 
----
-
-# 🧩 What We Do
-
-## 📢 Performance Marketing
-
-We develop and optimize paid advertising strategies focused on measurable business outcomes.
-
-Areas include:
-
-• Meta Ads
-• Facebook Advertising
-• Instagram Advertising
-• Lead Generation Campaigns
-• Conversion Campaigns
-• Retargeting Strategies
-• Campaign Optimization
-• Audience Research
-• Creative Testing
-• Performance Analysis
-
----
-
-## 🎯 Meta Ads Strategy
-
-We focus on building structured advertising systems instead of randomly launching campaigns.
-
-Our Meta Ads approach includes:
-
-### 01. Business Analysis
-
-Understanding the business model, offer, target customer and growth objective.
-
-### 02. Audience Research
-
-Identifying the right audience, customer pain points, motivations and buying signals.
-
-### 03. Campaign Strategy
-
-Building the campaign structure based on the business objective.
-
-### 04. Creative Strategy
-
-Developing creative concepts, ad messaging, hooks and content variations.
-
-### 05. Testing
-
-Testing audiences, creatives, messaging and campaign structures.
-
-### 06. Optimization
-
-Analyzing performance data and improving campaigns based on real results.
-
-### 07. Scaling
-
-Increasing investment in campaigns and strategies that demonstrate sustainable performance.
-
----
-
-# 🤖 AI and Marketing Automation
-
-We are actively exploring and building AI powered systems that can support modern marketing operations.
-
-Areas of interest include:
-
-• AI Marketing Assistants
-• AI Agents
-• Lead Intelligence
-• Prospect Research
-• Lead Scoring
-• Marketing Automation
-• CRM Automation
-• AI Assisted Content Systems
-• Campaign Analysis
-• Workflow Automation
-
-Our goal is not to use AI simply because it is trending.
-
-We focus on finding practical applications where AI and automation can reduce manual work, improve decision making and support human expertise.
-
----
-
-# 🧠 What We Are Building
-
-This GitHub profile documents our journey as we build practical marketing tools, systems and experiments.
-
-Current and future projects may include:
-
-### 📊 Meta Ads Tools
-
-Tools designed to help marketers analyze advertising performance and make better decisions.
-
-Examples:
-
-• ROAS Calculator
-• Break Even ROAS Calculator
-• CPA Calculator
-• Advertising Budget Calculator
-• Campaign Performance Analyzer
-
----
-
-### 🎯 Lead Intelligence Systems
-
-Tools and systems for identifying and prioritizing potential business opportunities.
-
-Areas include:
-
-• Ideal Customer Profile Scoring
-• Intent Scoring
-• Commercial Opportunity Scoring
-• Meta Ads Opportunity Analysis
-• Prospect Prioritization
-
----
-
-### 🤖 AI Agents
-
-Experiments involving AI agents that support marketing and business workflows.
-
-Possible applications include:
-
-• Prospect Research Agent
-• Marketing Strategy Assistant
-• Campaign Analysis Agent
-• Lead Qualification Agent
-• Content Intelligence Agent
-
----
+• AI assisted marketing research
+• Lead intelligence and scoring
+• AI agents and assistants
+• Content intelligence
+• Campaign analysis
+• Decision support
 
 ### ⚙️ Marketing Automation
 
-Documented workflows and experiments involving marketing automation.
+We build and document workflows that reduce repetitive operational work while keeping important decisions under human control.
 
-Areas include:
-
-• CRM Workflows
-• Lead Management
-• Email Automation
-• Prospect Qualification
-• AI Assisted Workflows
-• Slack Integrations
-• HubSpot Integrations
+• CRM workflows
+• Lead management
+• Content workflows
+• Approval systems
+• API based integrations
+• AI assisted automation
 
 ---
 
-# 📚 Knowledge and Frameworks
+## 🧪 Orion Effects Labs
 
-We believe good systems should be documented.
+**Orion Effects Labs** is the experimental side of the business.
 
-This GitHub will also contain frameworks and learning resources related to:
+This GitHub profile is used to document real work, prototypes, workflow experiments and reusable marketing systems as they are built.
 
-• Meta Ads
-• Performance Marketing
-• Lead Generation
-• Marketing Automation
-• Artificial Intelligence
-• AI Agents
-• Marketing Analytics
-• Creative Strategy
-• Growth Systems
+The goal is not to fill GitHub with artificial projects.
+
+The goal is to build useful things, document what actually works, learn from what does not, and improve continuously.
+
+### Current public project
+
+| Project | Purpose | Status |
+| --- | --- | --- |
+| [Orion Effects Social Media Automation](https://github.com/OrionEffects/OrionEffects-social-media-automation) | Human supervised AI assisted content workflow using Google Sheets, Gemini, GitHub Actions and planned Meta publishing integrations | Experimental / In development |
+
+More repositories will be added as projects reach a useful and documented stage.
 
 ---
 
-# 🛠️ Tools and Technologies
+## 🔄 Human + AI + Automation
 
-We are actively working with and exploring technologies including:
+Our operating principle is straightforward:
+
+```text
+Human Strategy
+      ↓
+Business & Audience Understanding
+      ↓
+AI Assisted Research / Generation
+      ↓
+Human Review
+      ↓
+Automated Execution
+      ↓
+Data & Performance Feedback
+      ↓
+Optimisation
+      ↺
+```
+
+AI is used as an accelerator, not as a substitute for judgement.
+
+Automation is used to remove repetitive execution, not to remove accountability.
+
+---
+
+## 🛠️ Technology & Tools
 
 ### Marketing
 
-Meta Ads
-Facebook Ads
-Instagram Ads
-Google Analytics
-Lead Generation
-Conversion Optimization
-Creative Testing
+Meta Ads • Facebook Ads • Instagram • Lead Generation • Conversion Optimisation • Creative Testing
 
 ### AI
 
-Artificial Intelligence
-AI Agents
-Prompt Engineering
-Generative AI
-AI Assisted Research
+Generative AI • AI Agents • Prompt Engineering • AI Assisted Research • Content Intelligence
 
 ### Automation
 
-Zapier
-HubSpot
-Slack
-Outlook
-CRM Workflows
-Marketing Automation
+GitHub Actions • Zapier • HubSpot • Slack • Microsoft Outlook • APIs
 
-### Data and Analytics
+### Data
 
-Campaign Performance Analysis
-Marketing Data
-Lead Scoring
-Performance Reporting
+Lead Scoring • Campaign Analysis • Performance Reporting • Marketing Data
 
 ---
 
-# 🧪 Orion Effects Labs
+## 📚 What you will find here
 
-**Orion Effects Labs** is where we experiment.
+As projects mature, this profile will contain:
 
-Not every project here will become a finished product.
+• Marketing automation workflows
+• Meta Ads tools and calculators
+• Lead intelligence experiments
+• AI agent prototypes
+• Campaign analysis tools
+• Reusable marketing frameworks
+• Documentation and implementation notes
 
-Some projects may be:
+Some projects will remain experiments. That is intentional.
 
-• Experiments
-• Prototypes
-• Proofs of Concept
-• Learning Projects
-• Internal Tools
-• Open Source Tools
-
-The purpose is simple:
-
-**Explore new ideas, build practical solutions and continuously improve.**
+A documented experiment is more valuable than a polished claim about something that was never built.
 
 ---
 
-# 📁 Featured Project Areas
+## 🎯 Mission
 
-| Area                 | Focus                                   |
-| -------------------- | --------------------------------------- |
-| 📢 Meta Ads          | Performance marketing systems and tools |
-| 🤖 AI                | AI powered marketing experiments        |
-| ⚙️ Automation        | Workflow and business automation        |
-| 🎯 Lead Intelligence | Prospect research and scoring           |
-| 📊 Analytics         | Performance analysis and reporting      |
-| 🧪 Labs              | Experimental projects and prototypes    |
+To help businesses build marketing systems that are **measurable, repeatable and increasingly intelligent** without losing the human thinking behind good marketing.
+
+## 🚀 Vision
+
+Build Orion Effects into a trusted growth partner for startups and SMEs by combining strong marketing fundamentals with practical AI and automation.
 
 ---
 
-# 🎯 Our Mission
+## 🌐 Connect with Orion Effects
 
-To build smarter marketing systems that combine:
-
-**Human Strategy**
-**Creative Thinking**
-**Data Driven Decisions**
-**Artificial Intelligence**
-**Automation**
-
-Technology should support better marketing decisions.
-
-It should not replace strategy, creativity or human judgment.
+• [Website](https://www.orioneffects.com)
+• [LinkedIn](https://www.linkedin.com/in/orioneffects/)
+• [Facebook](https://www.facebook.com/OrionEffects/)
+• [TikTok](https://www.tiktok.com/@orioneffects)
 
 ---
 
-# 🚀 Our Vision
+### Build. Test. Learn. Improve.
 
-To become a trusted growth partner for businesses by combining performance marketing expertise with intelligent systems, automation and innovation.
-
-We are building toward a future where marketing teams can spend less time on repetitive tasks and more time on:
-
-• Strategy
-• Creativity
-• Decision Making
-• Customer Understanding
-• Business Growth
-
----
-
-# 🤝 Let's Connect
-
-🌐 Website: https://www.orioneffects.com
-
-💼 LinkedIn: https://www.linkedin.com/in/orioneffects/
-
-📘 Facebook: https://www.facebook.com/OrionEffects/
-
-🎵 TikTok: https://www.tiktok.com/@orioneffects
-
----
-
-## 💡 Build. Test. Learn. Improve.
-
-**Orion Effects is continuously exploring the intersection of performance marketing, AI and automation.**
-<img width="937" height="938" alt="Orion logo for sign" src="https://github.com/user-attachments/assets/799bd09f-096b-4f94-97b6-54dfc8a80887" />
+**Orion Effects**
