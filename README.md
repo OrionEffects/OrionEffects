@@ -63,6 +63,7 @@ The goal is to build useful things, document what actually works, learn from wha
 | --- | --- | --- |
 | [Orion Effects Social Media Automation](https://github.com/OrionEffects/OrionEffects-social-media-automation) | Human supervised AI assisted content workflow using Google Sheets, Gemini, GitHub Actions and planned Meta publishing integrations | Experimental / In development |
 | [Researcher Agent documentation](docs/ai-agents/researcher-agent.md) | Documentation of the Orion Effects Zapier Agent that researches and qualifies potential businesses from Slack requests | Published / actively configured |
+| [Reporting Agent documentation](docs/ai-agents/reporting-agent.md) | Documentation of the Orion Effects Zapier Agent that consolidates recurring business signals into Google Sheets and Slack reports | Experimental / in development |
 
 More repositories and agent documentation will be added as projects reach a useful and documented stage.
 
