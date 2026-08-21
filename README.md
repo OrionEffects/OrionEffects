@@ -1,4 +1,3 @@
-<img width="937" height="938" alt="Orion logo for sign" src="https://github.com/user-attachments/assets/799bd09f-096b-4f94-97b6-54dfc8a80887" />
 # Orion Effects Design and Marketing Private Limited
 
 
@@ -314,3 +313,4 @@ We are building toward a future where marketing teams can spend less time on rep
 ## 💡 Build. Test. Learn. Improve.
 
 **Orion Effects is continuously exploring the intersection of performance marketing, AI and automation.**
+<img width="937" height="938" alt="Orion logo for sign" src="https://github.com/user-attachments/assets/799bd09f-096b-4f94-97b6-54dfc8a80887" />
