@@ -23,6 +23,17 @@ Practical systems around paid acquisition and lead generation, with a strong foc
 • Retargeting
 • Campaign analysis and optimisation
 
+### 🎨 Creative & Digital
+
+Supporting capabilities that strengthen the wider customer acquisition system.
+
+• SEO
+• Web design
+• General content marketing
+• Graphic design
+• Creative strategy
+• Landing page and campaign asset support
+
 ### 🤖 AI for Marketing
 
 We explore practical uses of AI where it can improve research, content workflows, analysis and operational efficiency.
@@ -100,7 +111,7 @@ Automation is used to remove repetitive execution, not to remove accountability.
 
 ### Marketing
 
-Meta Ads • Facebook Ads • Instagram • Lead Generation • Conversion Optimisation • Creative Testing
+Meta Ads • Facebook Ads • Instagram • Lead Generation • Conversion Optimisation • Creative Testing • SEO • Web Design • Content Marketing • Graphic Design
 
 ### AI
 
@@ -147,8 +158,11 @@ Build Orion Effects into a trusted growth partner for startups and SMEs by combi
 ## 🌐 Connect with Orion Effects
 
 • [Website](https://www.orioneffects.com)
-• [LinkedIn](https://www.linkedin.com/in/orioneffects/)
-• [Facebook](https://www.facebook.com/OrionEffects/)
+• [LinkedIn Company Page](https://www.linkedin.com/company/orioneffects)
+• [Founder / Professional Profile](https://www.linkedin.com/in/orioneffects/)
+• [Facebook](https://www.facebook.com/OrionEffectspage)
+• [Instagram](https://www.instagram.com/orioneffects)
+• [Threads](https://www.threads.com/@orioneffects)
 • [TikTok](https://www.tiktok.com/@orioneffects)
 
 ---
